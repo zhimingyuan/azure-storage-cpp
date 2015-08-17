@@ -125,6 +125,61 @@ With versions earlier than 2.0.0, the C++ client library will *keep* only the fo
 	sas_signature
 	sas_api_version
 
+<table>
+  <tr>
+    <th><b>Field Name</b></th>
+    <th><b>Query Parameter</b></th>
+  </tr>
+  <tr>
+    <td>signedversion</td>
+    <td>sv</td>
+  </tr>
+  <tr>
+    <td>signedversion</td>
+    <td>sv</td>
+  </tr>
+  <tr>
+    <td>signedversion</td>
+    <td>sv</td>
+  </tr>
+  <tr>
+    <td>signedversion</td>
+    <td>sv</td>
+  </tr>
+  <tr>
+    <td>signedversion</td>
+    <td>sv</td>
+  </tr>
+  <tr>
+    <td>signedversion</td>
+    <td>sv</td>
+  </tr>
+  <tr>
+    <td>signedversion</td>
+    <td>sv</td>
+  </tr>
+  <tr>
+    <td>signedversion</td>
+    <td>sv</td>
+  </tr>
+  <tr>
+    <td>signedversion</td>
+    <td>sv</td>
+  </tr>
+  <tr>
+    <td>signedversion</td>
+    <td>sv</td>
+  </tr>
+  <tr>
+    <td>signedversion</td>
+    <td>sv</td>
+  </tr>
+  <tr>
+    <td>signedversion</td>
+    <td>sv</td>
+  </tr>
+</table>
+
 With version 2.0.0, the C++ client library will ignore only the following parameters:
 
 	resource_type
