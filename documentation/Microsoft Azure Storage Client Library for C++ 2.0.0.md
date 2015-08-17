@@ -48,7 +48,6 @@ The following sample code shows the use of Append Blob.
 	            append_blob.delete_blob();
 	
 	            // Delete the blob container
-	            // Return value is true if the container did exist and was successfully deleted
 	            container.delete_container_if_exists();
 	        }
 	        catch (const azure::storage::storage_exception& e)
@@ -96,7 +95,7 @@ With version 2.0.0, you can also use a range-based for-loop to list blobs.
 	         }
 	         else
 	         {
-	             process_directory(item.as_blob_directory());
+	             process_directory(item.as_directory());
 	         }
 	     }
 
